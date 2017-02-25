@@ -26,7 +26,7 @@ $("#addShow").on("click", function(){
   // the makeButtons function is called, which makes buttons for all my topics plus the user topics
   makeButtons();
   // this line is so users can hit "enter" instead of clicking the submit button
-  return false; 
+  /*return false; */
 })
 
 // function to display gifs
