@@ -1,0 +1,11 @@
+body {
+	background: url("../images/background.jpg");
+	font-size: 18px;
+  	color: #DDD;
+ 	line-height: 34px;
+}
+
+.game {
+	margin-top: 0;
+	color: #DDD;
+}

@@ -1,1 +1,1 @@
-# GiphySearch
+# TriviaGame
